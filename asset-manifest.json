@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/benzouynahk-beep/tp.git/static/css/main.e6c13ad2.css",
-    "main.js": "/benzouynahk-beep/tp.git/static/js/main.3b674f66.js",
-    "static/js/453.01e7b05e.chunk.js": "/benzouynahk-beep/tp.git/static/js/453.01e7b05e.chunk.js",
-    "index.html": "/benzouynahk-beep/tp.git/index.html",
-    "main.e6c13ad2.css.map": "/benzouynahk-beep/tp.git/static/css/main.e6c13ad2.css.map",
-    "main.3b674f66.js.map": "/benzouynahk-beep/tp.git/static/js/main.3b674f66.js.map",
-    "453.01e7b05e.chunk.js.map": "/benzouynahk-beep/tp.git/static/js/453.01e7b05e.chunk.js.map"
+    "main.css": "/benzouynahk-beep/tp/static/css/main.e6c13ad2.css",
+    "main.js": "/benzouynahk-beep/tp/static/js/main.0d4df1de.js",
+    "static/js/453.01e7b05e.chunk.js": "/benzouynahk-beep/tp/static/js/453.01e7b05e.chunk.js",
+    "index.html": "/benzouynahk-beep/tp/index.html",
+    "main.e6c13ad2.css.map": "/benzouynahk-beep/tp/static/css/main.e6c13ad2.css.map",
+    "main.0d4df1de.js.map": "/benzouynahk-beep/tp/static/js/main.0d4df1de.js.map",
+    "453.01e7b05e.chunk.js.map": "/benzouynahk-beep/tp/static/js/453.01e7b05e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3b674f66.js"
+    "static/js/main.0d4df1de.js"
   ]
 }
